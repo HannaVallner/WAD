@@ -1,2 +1,2 @@
 # WAD
-Repository for Web Application Development
+This is a repository for Web Application Development.
